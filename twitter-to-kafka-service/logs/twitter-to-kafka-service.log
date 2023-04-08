@@ -1,0 +1,17 @@
+2023-04-07 23:51:24 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on archlinux with PID 15502 (/home/skynet/Learning/microservices-demo/twitter-to-kafka-service/target/classes started by skynet in /home/skynet/Learning/microservices-demo)
+2023-04-07 23:51:24 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-04-07 23:51:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.297 seconds (JVM running for 3.576)
+2023-04-07 23:51:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts... 
+2023-04-07 23:51:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-04-07 23:54:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on archlinux with PID 18462 (/home/skynet/Learning/microservices-demo/twitter-to-kafka-service/target/classes started by skynet in /home/skynet/Learning/microservices-demo)
+2023-04-07 23:54:03 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-04-07 23:54:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.99 seconds (JVM running for 3.145)
+2023-04-07 23:54:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts... 
+2023-04-07 23:54:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-04-07 23:54:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2023-04-07 23:55:15 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on archlinux with PID 20866 (/home/skynet/Learning/microservices-demo/twitter-to-kafka-service/target/classes started by skynet in /home/skynet/Learning/microservices-demo)
+2023-04-07 23:55:15 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-04-07 23:55:16 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.355 seconds (JVM running for 3.922)
+2023-04-07 23:55:16 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts... 
+2023-04-07 23:55:16 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-04-07 23:55:16 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
