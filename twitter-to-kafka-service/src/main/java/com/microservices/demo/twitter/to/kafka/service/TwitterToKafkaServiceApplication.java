@@ -16,9 +16,11 @@ public class TwitterToKafkaServiceApplication implements CommandLineRunner {
 
     private static final Logger LOG = LoggerFactory.getLogger(TwitterToKafkaServiceApplication.class);
 
-    @Autowired
-    private TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData;
+    private final TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData;
 
+    public TwitterToKafkaServiceApplication(TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData) {
+        this.twitterToKafkaServiceConfigData = twitterToKafkaServiceConfigData;
+    }
 
     public static void main(String[] args) {
         SpringApplication.run(TwitterToKafkaServiceApplication.class, args);
